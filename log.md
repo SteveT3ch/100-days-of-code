@@ -39,3 +39,22 @@ With that being said, I might be jumping the gun a bit as my Python skills are s
 **Link(s) to work**
 
 [MBIO Auto-correct MS Word add-in](https://github.com/derekdkim/MBIOAutocorrect/commit/92737426ec0237e377397dca697b159deb569f51)
+
+### Day 3: August 17, 2018 - Friday
+
+**Today's Progress**: 
+
+After very slow progress on my add-in project, I decided to focus on the fundamentals for this weekend.
+I opened up Eloquent Javascript and finished learning about JS loops syntax. 
+
+
+**Thoughts**: 
+
+The absence of an easy "Run" function of pure JavaScript code on IDEs made testing the syntax expressions incredibly tedious.
+JavaScript feels very similar to Java in its basic operators and some keywords.
+Coming from Python, the way JS uses 3 arguments in its for loop feels very awkward to me.
+I have a newfound appreciation for Python's straight-forward English-like statements.
+
+**Link(s) to work**
+
+[Chapter 2: Program Structure](https://eloquentjavascript.net/02_program_structure.html)
