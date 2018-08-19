@@ -57,8 +57,8 @@ I have a newfound appreciation for Python's straight-forward English-like statem
 
 **Link(s) to work**
 
-[Chapter 2: Program Structure](https://eloquentjavascript.net/02_program_structure.html)
-[Chapter 2 Notes and tests](https://github.com/derekdkim/100-days-of-code/blob/master/WorkDone/chapter2Notes.js)
+1. [Chapter 2: Program Structure](https://eloquentjavascript.net/02_program_structure.html)
+2. [Chapter 2 Notes and tests](https://github.com/derekdkim/100-days-of-code/blob/master/WorkDone/chapter2Notes.js)
 
 ### Day 4: August 18, 2018 - Saturday
 
@@ -77,5 +77,5 @@ Maybe I'll take the freecodecamp.com Front-end course.
 
 **Link(s) to work**
 
-[Chapter 2: Program Structure](https://eloquentjavascript.net/02_program_structure.html)
-[Chapter 2 Exercise Answers](https://github.com/derekdkim/100-days-of-code/blob/master/WorkDone/chapter2Exercises.js)
+1. [Chapter 2: Program Structure](https://eloquentjavascript.net/02_program_structure.html)
+2. [Chapter 2 Exercise Answers](https://github.com/derekdkim/100-days-of-code/blob/master/WorkDone/chapter2Exercises.js)
