@@ -58,3 +58,24 @@ I have a newfound appreciation for Python's straight-forward English-like statem
 **Link(s) to work**
 
 [Chapter 2: Program Structure](https://eloquentjavascript.net/02_program_structure.html)
+[Chapter 2 Notes and tests](https://github.com/derekdkim/100-days-of-code/blob/master/WorkDone/chapter2Notes.js)
+
+### Day 4: August 18, 2018 - Saturday
+
+**Today's Progress**: 
+
+Finished the Chapter 2 exercises on Eloquent Javascript.
+
+
+**Thoughts**: 
+
+They were not too bad since I had done similar exercises using Python.
+I'm getting used to the braces and the loop syntaxes.
+However, I'm getting incredibly frustrated with trying to output Javascript code on the IDE.
+I really need to learn how to link JavaScript output with HTML.
+Maybe I'll take the freecodecamp.com Front-end course.
+
+**Link(s) to work**
+
+[Chapter 2: Program Structure](https://eloquentjavascript.net/02_program_structure.html)
+[Chapter 2 Exercise Answers](https://github.com/derekdkim/100-days-of-code/blob/master/WorkDone/chapter2Exercises.js)
