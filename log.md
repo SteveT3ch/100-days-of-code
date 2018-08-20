@@ -79,3 +79,22 @@ Maybe I'll take the freecodecamp.com Front-end course.
 
 1. [Chapter 2: Program Structure](https://eloquentjavascript.net/02_program_structure.html)
 2. [Chapter 2 Exercise Answers](https://github.com/derekdkim/100-days-of-code/blob/master/WorkDone/chapter2Exercises.js)
+
+### Day 5: August 19, 2018 - Sunday
+
+**Today's Progress**: 
+
+Finished the Chapter 3 exercises on Eloquent Javascript. Completed the basic HTML5 section of freecodecamp.org.
+
+
+**Thoughts**: 
+
+I already have experience with functions so the exercises were easy.
+I want to start making my Javascript work in a web page so I started taking the freecodecamp.org course.
+The hands-on approach of teaching on freecodecamp.org makes it really easy to grasp the concept.
+I'll try to finish a chunk every day.
+
+**Link(s) to work**
+
+1. [Chapter 3: Program Structure](https://eloquentjavascript.net/03_functions.html)
+2. [Chapter 3 Exercise Answers](https://github.com/derekdkim/100-days-of-code/blob/master/WorkDone/chapter3Exercises.js)
