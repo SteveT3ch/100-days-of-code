@@ -98,3 +98,21 @@ I'll try to finish a chunk every day.
 
 1. [Chapter 3: Program Structure](https://eloquentjavascript.net/03_functions.html)
 2. [Chapter 3 Exercise Answers](https://github.com/derekdkim/100-days-of-code/blob/master/WorkDone/chapter3Exercises.js)
+
+### Day 6: August 20, 2018 - Monday
+
+**Today's Progress**: 
+
+Worked on the Chapter 4 exercises on Eloquent Javascript (not yet finished).
+
+
+**Thoughts**: 
+
+The array section for this book is much more in depth than the Python resource I read for this section.
+It took me a couple of hours to grasp the concepts and to start working on the exercises.
+I'm a bit fatigued from work (mondays :S) so I only did a bit of the freecodecamp CSS module.
+
+**Link(s) to work**
+
+1. [Chapter 4: Program Structure](https://eloquentjavascript.net/04_data.html)
+2. [Chapter 4 Notes](https://github.com/derekdkim/100-days-of-code/blob/master/WorkDone/chapter4Notes.js)
