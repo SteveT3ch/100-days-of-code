@@ -116,3 +116,16 @@ I'm a bit fatigued from work (mondays :S) so I only did a bit of the freecodecam
 
 1. [Chapter 4: Program Structure](https://eloquentjavascript.net/04_data.html)
 2. [Chapter 4 Notes](https://github.com/derekdkim/100-days-of-code/blob/master/WorkDone/chapter4Notes.js)
+
+### Day 7: August 21, 2018 - Tuesday
+
+**Today's Progress**: 
+
+Finished the Chapter 4 exercise "Reversing an array" on Eloquent Javascript. Completed the Basic CSS module on freecodecamp.
+
+
+**Thoughts**: 
+
+It broke my heart when I discovered that Javascript doesn't have reverse indexes on their arrays.
+I initially thought it would be a piece of cake and I wrote the code like I would on Python, using a for loop to append the items with the negative index.
+Then, I figured out that I could reverse the count of the for loop to make it work.
