@@ -129,3 +129,21 @@ Finished the Chapter 4 exercise "Reversing an array" on Eloquent Javascript. Com
 It broke my heart when I discovered that Javascript doesn't have reverse indexes on their arrays.
 I initially thought it would be a piece of cake and I wrote the code like I would on Python, using a for loop to append the items with the negative index.
 Then, I figured out that I could reverse the count of the for loop to make it work.
+
+### Day 8: August 22, 2018 - Wedsday
+
+**Today's Progress**: 
+
+Finished the Chapter 4 exercise "A list" on Eloquent Javascript. Did some of the Applied Visual Design module on freecodecamp.
+
+
+**Thoughts**: 
+
+I was stuck on this exercise for at least a couple of hours.
+I was floundering around with for loops and replacing the list object with recursion using list, which was a big mistake.
+Truth be told, I had to look up the answer of the arrayToList function on StackOverflow.
+I didn't know that array items can be spliced and then added individually in sequential order in the current object.
+In fact, I still don't understand how the data is stored and how the for loop calls each one in sequential order.
+After that, I was able to eventually make the other 3 functions.
+The most interesting thing I learned was that you can access nested objects by using object = object.nestLocation.
+Despite feeling like a very slow learner, I learned a very important concept and feel that I got a better understanding of nested objects.
