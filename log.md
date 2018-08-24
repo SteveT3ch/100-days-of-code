@@ -147,3 +147,15 @@ In fact, I still don't understand how the data is stored and how the for loop ca
 After that, I was able to eventually make the other 3 functions.
 The most interesting thing I learned was that you can access nested objects by using object = object.nestLocation.
 Despite feeling like a very slow learner, I learned a very important concept and feel that I got a better understanding of nested objects.
+
+### Day 9: August 23, 2018 - Thursday
+
+**Today's Progress**: 
+
+Wrote a Python script to automate book giveaways using Selenium.
+
+**Thoughts**: 
+I wrote this a while back but I accidentally deleted it when I was migrating over to Linux.
+Unfortunately, I don't remember how to make most of it so it still feels completely new to me.
+I need to replicate this in Javascript at some point, and make it a web app.
+Ultimately, I didn't end up doing much today because I had evening plans with friends.
