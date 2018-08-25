@@ -159,3 +159,15 @@ I wrote this a while back but I accidentally deleted it when I was migrating ove
 Unfortunately, I don't remember how to make most of it so it still feels completely new to me.
 I need to replicate this in Javascript at some point, and make it a web app.
 Ultimately, I didn't end up doing much today because I had evening plans with friends.
+
+### Day 10: August 24, 2018 - Friday
+
+**Today's Progress**: 
+
+Short day. Worked on Applied Visual Design on freecodecamp.
+
+**Thoughts**: 
+The actual functions are ridiculously easy to grasp, but the actual design concepts are difficult to truly understand.
+I'm just randomly putting in commands.
+I try to think about what I'm doing and how it improves design, but it doesn't really resonate with me.
+Some CSS tricks are insanely cool, like the crescent moon and heart shapes.
