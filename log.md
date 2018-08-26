@@ -171,3 +171,14 @@ The actual functions are ridiculously easy to grasp, but the actual design conce
 I'm just randomly putting in commands.
 I try to think about what I'm doing and how it improves design, but it doesn't really resonate with me.
 Some CSS tricks are insanely cool, like the crescent moon and heart shapes.
+
+### Day 11: August 25, 2018 - Saturday
+
+**Today's Progress**: 
+
+Finished 2 short modules: Applied Accessibility and Responsive Web Design Principles.
+
+**Thoughts**: 
+Not a lot of actual coding today but covered some important concepts, particularly when it comes to catering to special needs.
+The weekend should be when I'm fired up, but after some late nights this week I just needed to take it easy today.
+I'm hoping to get back into it tomorrow.
