@@ -182,3 +182,25 @@ Finished 2 short modules: Applied Accessibility and Responsive Web Design Princi
 Not a lot of actual coding today but covered some important concepts, particularly when it comes to catering to special needs.
 The weekend should be when I'm fired up, but after some late nights this week I just needed to take it easy today.
 I'm hoping to get back into it tomorrow.
+
+### Skipped August 26, 2018 - Sunday (1/5)
+
+### Missed Aug 27 - Aug 30 Due to being hospitalized on Monday evening.
+
+I'm thankful to whichever deity or forces are real for letting me survive for another day and keep on learning what I love.
+
+### Day 12: August 31, 2018 - Friday
+
+**Today's Progress**: 
+
+Finished CSS flexbox on freeCodeCamp. Worked on recursion exercise for deep object comparisons.
+
+**Thoughts**: 
+Almost died due to bleeding out in the ER. Hospitalized until Thursday evening.
+Due to my current condition, I can only spend a few hours coding despite having all the time in the world.
+This near-miss gave me a new resolve to truly immerse myself in tech concepts and learn every concept inside-out.
+Anyways, I'm starting out light but I will be picking up the pace so I can finally get to working on personal web app projects.
+Recursion is a tricky concept to grasp, especially when working with loops that access different levels of nested objects... not to mention that comparison involves accessing two objects.
+It hasn't clicked yet for me but I will keep bashing my head against it until it works.
+Also, I almost finished my Goodreads auto-giveaway script in Python on Monday. I might just remake it in Javascript and add a GUI instead, but I'll look over that at another time.
+Goodreads gutted their giveaway program so it doesn't give me a lot of motivation to work on it.
