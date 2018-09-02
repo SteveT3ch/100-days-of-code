@@ -204,3 +204,20 @@ Recursion is a tricky concept to grasp, especially when working with loops that 
 It hasn't clicked yet for me but I will keep bashing my head against it until it works.
 Also, I almost finished my Goodreads auto-giveaway script in Python on Monday. I might just remake it in Javascript and add a GUI instead, but I'll look over that at another time.
 Goodreads gutted their giveaway program so it doesn't give me a lot of motivation to work on it.
+
+### Day 13: September 1, 2018 - Saturday
+
+**Today's Progress**: 
+
+Finished CSS grid on freeCodeCamp. Completed my first HTML/CSS project (tribute page).
+
+**Thoughts**: 
+The HTML portion was a breeze but I couldn't remember any CSS image manipulation tricks.
+I had to shamefully pull a solution online to center my image element relative to parent.
+CSS is tricky, so I will need to put in the time so I can at least be half-competent.
+I can't wait until I get to the JavaScript portion.
+Markup languages are a bit boring.
+
+**Link(s) to work**
+
+1. [Exercise - Tribute Page](https://codepen.io/derekdkim/pen/PdpJwv)
