@@ -221,3 +221,21 @@ Markup languages are a bit boring.
 **Link(s) to work**
 
 1. [Exercise - Tribute Page](https://codepen.io/derekdkim/pen/PdpJwv)
+
+### Day 14: September 2, 2018 - Sunday
+
+**Today's Progress**: 
+
+Completed my second and third HTML/CSS project.
+
+**Thoughts**: 
+I finished making the survey form.
+CSS is extremely tricky to get working properly. The way I'm doing it now has me using a lot of shortcuts and half-assed design to get through it.
+I think that learning how to use the HTML/CSS suite is a valuable lesson, but I definitely don't want to be doing this for a living.
+That being said, the tricks used to make a static top navigation bar was pretty cool.
+Coding algorithms and working out problems in programming languages are more up my alley than placements and aesthetic design.
+
+**Link(s) to work**
+
+1. [Exercise - Survey Form](https://codepen.io/derekdkim/pen/GXWMvV)
+2. [Exercise - Product Landing Page](https://codepen.io/derekdkim/pen/RYpzOp)
