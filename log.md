@@ -239,3 +239,21 @@ Coding algorithms and working out problems in programming languages are more up 
 
 1. [Exercise - Survey Form](https://codepen.io/derekdkim/pen/GXWMvV)
 2. [Exercise - Product Landing Page](https://codepen.io/derekdkim/pen/RYpzOp)
+
+### Day 15: September 3, 2018 - Monday
+
+**Today's Progress**: 
+
+Completed all of the HTML/CSS projects.
+
+**Thoughts**: 
+After getting some practice with it, I'm a lot better at using CSS.
+I'm still terrible at it but my web pages don't look like they're from the 1990s anymore.
+From now on, I'm going to be inspecting every website to steal cool design tricks. Until recently, I didn't know CSS was also allowed to be inspected.
+It's really neat seeing what tricks developers use to make the design of the site come out that way.
+Whew, but I'm finally done with mark-up. I'm going to continue practicing but now it's time to hit the main course.
+
+**Link(s) to work**
+
+1. [Exercise - Technical Documentation](https://codepen.io/derekdkim/pen/oPWPxx)
+2. [Exercise - Portfolio Webpage](https://codepen.io/derekdkim/pen/xadybd)
