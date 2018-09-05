@@ -257,3 +257,15 @@ Whew, but I'm finally done with mark-up. I'm going to continue practicing but no
 
 1. [Exercise - Technical Documentation](https://codepen.io/derekdkim/pen/oPWPxx)
 2. [Exercise - Portfolio Webpage](https://codepen.io/derekdkim/pen/xadybd)
+
+### Day 16: September 4, 2018 - Tuesday
+
+**Today's Progress**: 
+
+Completed 75% of the Basic Javascript module on freeCodeCamp.
+
+**Thoughts**: 
+I breezed through most of the content as I am quite familiar with the basic syntax of JS.
+However, I find myself getting quite bored with this style of teaching. I don't feel like I'm retaining much information from these.
+I need to look for some projects to build in addition to working through the exercises.
+The exercises alone won't get me anywhere.
