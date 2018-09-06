@@ -130,7 +130,7 @@ It broke my heart when I discovered that Javascript doesn't have reverse indexes
 I initially thought it would be a piece of cake and I wrote the code like I would on Python, using a for loop to append the items with the negative index.
 Then, I figured out that I could reverse the count of the for loop to make it work.
 
-### Day 8: August 22, 2018 - Wedsday
+### Day 8: August 22, 2018 - Wednesday
 
 **Today's Progress**: 
 
@@ -269,3 +269,14 @@ I breezed through most of the content as I am quite familiar with the basic synt
 However, I find myself getting quite bored with this style of teaching. I don't feel like I'm retaining much information from these.
 I need to look for some projects to build in addition to working through the exercises.
 The exercises alone won't get me anywhere.
+
+### Day 17: September 5, 2018 - Wednesday
+
+**Today's Progress**: 
+
+Completed 90% of the Basic Javascript module on freeCodeCamp.
+
+**Thoughts**: 
+Some of these challenges took a while for me to finish.
+It wasn't that they were intellectually challenging, but some typos set me back for longer than they should.
+I need more of a keen eye.
