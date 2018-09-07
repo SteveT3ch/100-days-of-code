@@ -280,3 +280,18 @@ Completed 90% of the Basic Javascript module on freeCodeCamp.
 Some of these challenges took a while for me to finish.
 It wasn't that they were intellectually challenging, but some typos set me back for longer than they should.
 I need more of a keen eye.
+
+### Day 18: September 6, 2018 - Thursday
+
+**Today's Progress**: 
+
+Finished Chapter 1 of Starting out with Java: From Control Structures through Objects.
+
+**Thoughts**: 
+I was tired from a long work day, combined with my first therapy session for social anxiety followed by a social outing.
+I couldn't stare at a computer, so I took out my brother's year-old computer science textbooks to study CS fundamentals.
+Java is the most popular software dev language and has very rigid syntaxes and OOP concepts so I wanted to learn some of it.
+I like JS but I felt like something different.
+The amount of fundamental CS concepts are something I never realized I lacked until I read the first chapter.
+The book was a blast to read and learn from. If I can stomach reading formal university textbooks, I should just do that instead of being drip-fed content like in freeCodeCamp.
+I still want to finish freeCodeCamp though.
