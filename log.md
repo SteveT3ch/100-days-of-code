@@ -295,3 +295,26 @@ I like JS but I felt like something different.
 The amount of fundamental CS concepts are something I never realized I lacked until I read the first chapter.
 The book was a blast to read and learn from. If I can stomach reading formal university textbooks, I should just do that instead of being drip-fed content like in freeCodeCamp.
 I still want to finish freeCodeCamp though.
+
+### Day 19: September 7, 2018 - Friday
+
+**Today's Progress**: 
+
+Finished the Basic Javascript module on freeCodeCamp.
+Mapped out my plans for my first big project, an academic manuscript formatting assistant called MBIOBuddy.
+Organized a SCRUM work batch on a Trello board.
+Wrote code for wildcard search on MS Word.
+
+**Thoughts**: 
+I finally finished that darned Basic Javascript module.
+Although I appreciate everything that freeCodeCamp stands for, it is difficult to retain information from such basic challenges.
+Some exercises are intellectually stimulating, but others are basically copy/paste that barely hammers anything in.
+The vast majority of my work tonight has been setting the foundation for my first full-on project, which is a manuscript formatting assistant add-in for MS Word.
+Details about this project are in the git repo readme.
+The most fascinating thing I learned today is the wildcard search feature on MS Word.
+I never knew there was such a robust feature for searching a user-defined criteria, rather than a specific string.
+The work ahead of me will be daunting given my inexperience, but I'm really excited to make it work.
+
+**Link(s) to work**
+
+1. [MBIOAutocorrect (placeholder repo name, will have to rename or reupload later)](https://github.com/derekdkim/MBIOAutocorrect)
