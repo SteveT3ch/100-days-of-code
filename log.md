@@ -318,3 +318,13 @@ The work ahead of me will be daunting given my inexperience, but I'm really exci
 **Link(s) to work**
 
 1. [MBIOAutocorrect (placeholder repo name, will have to rename or reupload later)](https://github.com/derekdkim/MBIOAutocorrect)
+
+### Day 20: September 8, 2018 - Saturday
+
+**Today's Progress**: 
+
+Finished Chapter 2 of Starting out with Java: From Control Structures through Objects.
+
+**Thoughts**: 
+I had a bit of a rest day, so I hit the books and got through a chapter of the Java textbook and learned its syntaxes.
+After getting the hang of Java's programming style, I have come to prefer it. It has also been a fantastic too for me to learn data types and OOP.
