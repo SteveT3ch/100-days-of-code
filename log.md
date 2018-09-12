@@ -155,6 +155,7 @@ Despite feeling like a very slow learner, I learned a very important concept and
 Wrote a Python script to automate book giveaways using Selenium.
 
 **Thoughts**: 
+
 I wrote this a while back but I accidentally deleted it when I was migrating over to Linux.
 Unfortunately, I don't remember how to make most of it so it still feels completely new to me.
 I need to replicate this in Javascript at some point, and make it a web app.
@@ -167,6 +168,7 @@ Ultimately, I didn't end up doing much today because I had evening plans with fr
 Short day. Worked on Applied Visual Design on freecodecamp.
 
 **Thoughts**: 
+
 The actual functions are ridiculously easy to grasp, but the actual design concepts are difficult to truly understand.
 I'm just randomly putting in commands.
 I try to think about what I'm doing and how it improves design, but it doesn't really resonate with me.
@@ -179,6 +181,7 @@ Some CSS tricks are insanely cool, like the crescent moon and heart shapes.
 Finished 2 short modules: Applied Accessibility and Responsive Web Design Principles.
 
 **Thoughts**: 
+
 Not a lot of actual coding today but covered some important concepts, particularly when it comes to catering to special needs.
 The weekend should be when I'm fired up, but after some late nights this week I just needed to take it easy today.
 I'm hoping to get back into it tomorrow.
@@ -196,6 +199,7 @@ I'm thankful to whichever deity or forces are real for letting me survive for an
 Finished CSS flexbox on freeCodeCamp. Worked on recursion exercise for deep object comparisons.
 
 **Thoughts**: 
+
 Almost died due to bleeding out in the ER. Hospitalized until Thursday evening.
 Due to my current condition, I can only spend a few hours coding despite having all the time in the world.
 This near-miss gave me a new resolve to truly immerse myself in tech concepts and learn every concept inside-out.
@@ -212,6 +216,7 @@ Goodreads gutted their giveaway program so it doesn't give me a lot of motivatio
 Finished CSS grid on freeCodeCamp. Completed my first HTML/CSS project (tribute page).
 
 **Thoughts**: 
+
 The HTML portion was a breeze but I couldn't remember any CSS image manipulation tricks.
 I had to shamefully pull a solution online to center my image element relative to parent.
 CSS is tricky, so I will need to put in the time so I can at least be half-competent.
@@ -229,6 +234,7 @@ Markup languages are a bit boring.
 Completed my second and third HTML/CSS project.
 
 **Thoughts**: 
+
 I finished making the survey form.
 CSS is extremely tricky to get working properly. The way I'm doing it now has me using a lot of shortcuts and half-assed design to get through it.
 I think that learning how to use the HTML/CSS suite is a valuable lesson, but I definitely don't want to be doing this for a living.
@@ -247,6 +253,7 @@ Coding algorithms and working out problems in programming languages are more up 
 Completed all of the HTML/CSS projects.
 
 **Thoughts**: 
+
 After getting some practice with it, I'm a lot better at using CSS.
 I'm still terrible at it but my web pages don't look like they're from the 1990s anymore.
 From now on, I'm going to be inspecting every website to steal cool design tricks. Until recently, I didn't know CSS was also allowed to be inspected.
@@ -265,6 +272,7 @@ Whew, but I'm finally done with mark-up. I'm going to continue practicing but no
 Completed 75% of the Basic Javascript module on freeCodeCamp.
 
 **Thoughts**: 
+
 I breezed through most of the content as I am quite familiar with the basic syntax of JS.
 However, I find myself getting quite bored with this style of teaching. I don't feel like I'm retaining much information from these.
 I need to look for some projects to build in addition to working through the exercises.
@@ -277,6 +285,7 @@ The exercises alone won't get me anywhere.
 Completed 90% of the Basic Javascript module on freeCodeCamp.
 
 **Thoughts**: 
+
 Some of these challenges took a while for me to finish.
 It wasn't that they were intellectually challenging, but some typos set me back for longer than they should.
 I need more of a keen eye.
@@ -288,6 +297,7 @@ I need more of a keen eye.
 Finished Chapter 1 of Starting out with Java: From Control Structures through Objects.
 
 **Thoughts**: 
+
 I was tired from a long work day, combined with my first therapy session for social anxiety followed by a social outing.
 I couldn't stare at a computer, so I took out my brother's year-old computer science textbooks to study CS fundamentals.
 Java is the most popular software dev language and has very rigid syntaxes and OOP concepts so I wanted to learn some of it.
@@ -306,6 +316,7 @@ Organized a SCRUM work batch on a Trello board.
 Wrote code for wildcard search on MS Word.
 
 **Thoughts**: 
+
 I finally finished that darned Basic Javascript module.
 Although I appreciate everything that freeCodeCamp stands for, it is difficult to retain information from such basic challenges.
 Some exercises are intellectually stimulating, but others are basically copy/paste that barely hammers anything in.
@@ -326,5 +337,46 @@ The work ahead of me will be daunting given my inexperience, but I'm really exci
 Finished Chapter 2 of Starting out with Java: From Control Structures through Objects.
 
 **Thoughts**: 
+
 I had a bit of a rest day, so I hit the books and got through a chapter of the Java textbook and learned its syntaxes.
 After getting the hang of Java's programming style, I have come to prefer it. It has also been a fantastic too for me to learn data types and OOP.
+
+### Skipped September 9, 2018 - Sunday (2/5)
+Being lazy playing video games.
+
+### Day 21: September 10, 2018 - Monday
+
+**Today's Progress**: 
+
+Finished Chapter 2 Algorithm workbench questions in Starting out with Java: From Control Structures through Objects.
+Wrote a script in Java calculating stock solution concentrations and volumes.
+
+**Thoughts**: 
+
+Java syntaxes are a lot different than JavaScript.
+I naively believed that because they both have curly braces and write integer for loop arguments the same way, they would have the same keywords and the same way to deal with problems.
+In Java, string equality as a condition for "for" loops can't be done using the "==" operators. It must be done using variable.equals(comparisonString); .
+I will work on refining this app as I learn more Java.
+
+**Link(s) to work**
+
+1. [StockSolutionCalculator)](https://github.com/derekdkim/https://github.com/derekdkim/StockSolutionCalculator)
+
+### Day 22: September 11, 2018 - Tuesday
+
+**Today's Progress**: 
+
+Completed Chapter 3 in Starting out with Java: From Control Structures through Objects.
+Added printf() decimal formatting to the stock solution calculator.
+Started working on a Caesar cipher encryptor in HTML/CSS/JavaScript.
+
+**Thoughts**: 
+
+Java is really interesting to learn. It's a lot easier to absorb information using the textbook compared to online tutorials.
+I'm finally getting over my procrastination to finally link JS to HTML. 
+I'm participating in a monthly programming challenge on Habitica to construct an encryptor for Caesar cipher.
+Unlike others who went for the unicode approach, I used index manipulation on arrays. I think my way is very resource intensive and inefficient.
+I will refactor my code depending on the performance and feedback.
+
+1. [StockSolutionCalculator)](https://github.com/derekdkim/https://github.com/derekdkim/StockSolutionCalculator)
+2. [Caesar Cipher](https://codepen.io/derekdkim/pen/pOLGoN)
