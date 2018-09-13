@@ -360,7 +360,7 @@ I will work on refining this app as I learn more Java.
 
 **Link(s) to work**
 
-1. [StockSolutionCalculator)](https://github.com/derekdkim/https://github.com/derekdkim/StockSolutionCalculator)
+1. [StockSolutionCalculator)](https://github.com/derekdkim/StockSolutionCalculator)
 
 ### Day 22: September 11, 2018 - Tuesday
 
@@ -378,5 +378,20 @@ I'm participating in a monthly programming challenge on Habitica to construct an
 Unlike others who went for the unicode approach, I used index manipulation on arrays. I think my way is very resource intensive and inefficient.
 I will refactor my code depending on the performance and feedback.
 
-1. [StockSolutionCalculator)](https://github.com/derekdkim/https://github.com/derekdkim/StockSolutionCalculator)
+1. [StockSolutionCalculator)](https://github.com/derekdkim/StockSolutionCalculator)
 2. [Caesar Cipher](https://codepen.io/derekdkim/pen/pOLGoN)
+
+### Day 23: September 12, 2018 - Wednesday
+
+**Today's Progress**: 
+
+Went to my first devClub meeting and networked with other developers.
+Did some Java exercises.
+
+**Thoughts**: 
+
+Getting VisualStudioCode to recognize my OpenJDK PATH is killing me inside. It keeps saying JAVA_HOME environment variable points to a missing folder when it doesn't.
+Got some practice with swing.JOptionPane.
+
+1. [romanNumerals)](https://github.com/derekdkim/100-days-of-code/WorkDone/Java/JavaTextbookExercises/romanNumerals.java)
+2. [magicDates](https://github.com/derekdkim/100-days-of-code/WorkDone/Java/JavaTextbookExercises/magicDates.java)
