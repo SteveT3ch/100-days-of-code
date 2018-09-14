@@ -360,7 +360,7 @@ I will work on refining this app as I learn more Java.
 
 **Link(s) to work**
 
-1. [StockSolutionCalculator)](https://github.com/derekdkim/StockSolutionCalculator)
+1. [StockSolutionCalculator](https://github.com/derekdkim/StockSolutionCalculator)
 
 ### Day 22: September 11, 2018 - Tuesday
 
@@ -378,7 +378,7 @@ I'm participating in a monthly programming challenge on Habitica to construct an
 Unlike others who went for the unicode approach, I used index manipulation on arrays. I think my way is very resource intensive and inefficient.
 I will refactor my code depending on the performance and feedback.
 
-1. [StockSolutionCalculator)](https://github.com/derekdkim/StockSolutionCalculator)
+1. [StockSolutionCalculator](https://github.com/derekdkim/StockSolutionCalculator)
 2. [Caesar Cipher](https://codepen.io/derekdkim/pen/pOLGoN)
 
 ### Day 23: September 12, 2018 - Wednesday
@@ -393,5 +393,21 @@ Did some Java exercises.
 Getting VisualStudioCode to recognize my OpenJDK PATH is killing me inside. It keeps saying JAVA_HOME environment variable points to a missing folder when it doesn't.
 Got some practice with swing.JOptionPane.
 
-1. [romanNumerals)](https://github.com/derekdkim/100-days-of-code/WorkDone/Java/JavaTextbookExercises/romanNumerals.java)
+1. [romanNumerals](https://github.com/derekdkim/100-days-of-code/WorkDone/Java/JavaTextbookExercises/romanNumerals.java)
 2. [magicDates](https://github.com/derekdkim/100-days-of-code/WorkDone/Java/JavaTextbookExercises/magicDates.java)
+
+### Day 24: September 13, 2018 - Thursday
+
+**Today's Progress**: 
+
+Finished Chapter 4 of Starting out with Java.
+
+**Thoughts**: 
+
+Learned how to create files and append information to it. I created my first log from code.
+VisualStudioCode IDE had a lot of issues with Java and displaying input, but I ended up getting it all ironed out.
+To display input in VisualStudioCode, one must access launch.json and edit "console" value from "internalConsole" to "externalTerminal" or "integratedTerminal".
+Java has been extremely rewarding to learn. I wish there was more time in the day so I can get better at it.
+
+1. [sumOfNumbers (loop test)](https://github.com/derekdkim/100-days-of-code/WorkDone/Java/JavaTextbookExercises/sumOfNumbers.java)
+2. [distanceTraveled (log generation)](https://github.com/derekdkim/100-days-of-code/WorkDone/Java/JavaTextbookExercises/distanceTraveled.java)
