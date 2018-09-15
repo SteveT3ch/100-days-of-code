@@ -411,3 +411,15 @@ Java has been extremely rewarding to learn. I wish there was more time in the da
 
 1. [sumOfNumbers (loop test)](https://github.com/derekdkim/100-days-of-code/WorkDone/Java/JavaTextbookExercises/sumOfNumbers.java)
 2. [distanceTraveled (log generation)](https://github.com/derekdkim/100-days-of-code/WorkDone/Java/JavaTextbookExercises/distanceTraveled.java)
+
+### Day 25: September 14, 2018 - Friday
+
+**Today's Progress**: 
+
+Did more practice exercises at the end of Chapter 4 of Java to familiarize myself with writing simple Java classes and using PrintWriter to create logs.
+
+**Thoughts**: 
+
+Had somewhat of an unproductive rest day. I only tackled a couple more code challenges at the end of Chapter 4.
+
+1. [penniesForPay](https://github.com/derekdkim/100-days-of-code/WorkDone/Java/JavaTextbookExercises/penniesForPay.java)
