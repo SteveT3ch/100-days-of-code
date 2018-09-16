@@ -423,3 +423,21 @@ Did more practice exercises at the end of Chapter 4 of Java to familiarize mysel
 Had somewhat of an unproductive rest day. I only tackled a couple more code challenges at the end of Chapter 4.
 
 1. [penniesForPay](https://github.com/derekdkim/100-days-of-code/WorkDone/Java/JavaTextbookExercises/penniesForPay.java)
+
+### Day 26: September 15, 2018 - Saturday
+
+**Today's Progress**: 
+
+Finished up the Chapter 4 challenges.
+Finished Chapter 5 of the Java textbook.
+
+**Thoughts**: 
+
+Being able to edit and parse large paragraphs felt rewarding.
+I feel very comfortable with the swing.JOptionPane GUI now.
+
+Note: The slot machine simulation has some bugs that need to be worked out in the future to work properly. I can't figure out how to check if all 3 slots are matching.
+
+1. [letterCounter](https://github.com/derekdkim/100-days-of-code/WorkDone/Java/JavaTextbookExercises/letterCounter.java)
+1. [fileLetterCounter](https://github.com/derekdkim/100-days-of-code/WorkDone/Java/JavaTextbookExercises/fileLetterCounter.java)
+1. [Slot Machine Simulation](https://github.com/derekdkim/100-days-of-code/WorkDone/Java/JavaTextbookExercises/slotMachine.java)
