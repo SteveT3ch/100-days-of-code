@@ -378,8 +378,10 @@ I'm participating in a monthly programming challenge on Habitica to construct an
 Unlike others who went for the unicode approach, I used index manipulation on arrays. I think my way is very resource intensive and inefficient.
 I will refactor my code depending on the performance and feedback.
 
+**Link(s) to work**
+
 1. [StockSolutionCalculator](https://github.com/derekdkim/StockSolutionCalculator)
-2. [Caesar Cipher](https://codepen.io/derekdkim/pen/pOLGoN)
+2. [Caesar Cipher](https://github.com/derekdkim/CaesarCipher)
 
 ### Day 23: September 12, 2018 - Wednesday
 
@@ -392,6 +394,8 @@ Did some Java exercises.
 
 Getting VisualStudioCode to recognize my OpenJDK PATH is killing me inside. It keeps saying JAVA_HOME environment variable points to a missing folder when it doesn't.
 Got some practice with swing.JOptionPane.
+
+**Link(s) to work**
 
 1. [romanNumerals](https://github.com/derekdkim/100-days-of-code/WorkDone/Java/JavaTextbookExercises/romanNumerals.java)
 2. [magicDates](https://github.com/derekdkim/100-days-of-code/WorkDone/Java/JavaTextbookExercises/magicDates.java)
@@ -409,6 +413,8 @@ VisualStudioCode IDE had a lot of issues with Java and displaying input, but I e
 To display input in VisualStudioCode, one must access launch.json and edit "console" value from "internalConsole" to "externalTerminal" or "integratedTerminal".
 Java has been extremely rewarding to learn. I wish there was more time in the day so I can get better at it.
 
+**Link(s) to work**
+
 1. [sumOfNumbers (loop test)](https://github.com/derekdkim/100-days-of-code/WorkDone/Java/JavaTextbookExercises/sumOfNumbers.java)
 2. [distanceTraveled (log generation)](https://github.com/derekdkim/100-days-of-code/WorkDone/Java/JavaTextbookExercises/distanceTraveled.java)
 
@@ -421,6 +427,8 @@ Did more practice exercises at the end of Chapter 4 of Java to familiarize mysel
 **Thoughts**: 
 
 Had somewhat of an unproductive rest day. I only tackled a couple more code challenges at the end of Chapter 4.
+
+**Link(s) to work**
 
 1. [penniesForPay](https://github.com/derekdkim/100-days-of-code/WorkDone/Java/JavaTextbookExercises/penniesForPay.java)
 
@@ -438,6 +446,26 @@ I feel very comfortable with the swing.JOptionPane GUI now.
 
 Note: The slot machine simulation has some bugs that need to be worked out in the future to work properly. I can't figure out how to check if all 3 slots are matching.
 
+**Link(s) to work**
+
 1. [letterCounter](https://github.com/derekdkim/100-days-of-code/WorkDone/Java/JavaTextbookExercises/letterCounter.java)
-1. [fileLetterCounter](https://github.com/derekdkim/100-days-of-code/WorkDone/Java/JavaTextbookExercises/fileLetterCounter.java)
-1. [Slot Machine Simulation](https://github.com/derekdkim/100-days-of-code/WorkDone/Java/JavaTextbookExercises/slotMachine.java)
+2. [fileLetterCounter](https://github.com/derekdkim/100-days-of-code/WorkDone/Java/JavaTextbookExercises/fileLetterCounter.java)
+3. [Slot Machine Simulation](https://github.com/derekdkim/100-days-of-code/WorkDone/Java/JavaTextbookExercises/slotMachine.java)
+
+### Day 27: September 16, 2018 - Sunday
+
+**Today's Progress**: 
+
+Started edX Harvard's CS50 course as a part of OSSU curriculum. Finished Week 0 material.
+Worked on the Caesar Cipher programming challenge on JS.
+
+**Thoughts**: 
+
+I'm terrible at JS. I spent a lot of time just getting a basic form of the function working, but linking the input and output HTML is more challenging than I anticipated.
+A part of me wants to scrap this and work on it in Java as I am spending a lot of my time learning it, but I know JS is extremely useful and in high demand.
+I'm keep getting TypeErrors telling me that str.charCodeAt() is not a recognized function.
+I will keep trying tomorrow. I'm bound to get it at some point, right?
+
+**Link(s) to work**
+
+1. [Caesar Cipher](https://github.com/derekdkim/CaesarCipher)
