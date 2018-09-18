@@ -469,3 +469,20 @@ I will keep trying tomorrow. I'm bound to get it at some point, right?
 **Link(s) to work**
 
 1. [Caesar Cipher](https://github.com/derekdkim/CaesarCipher)
+
+
+### Day 28: September 17, 2018 - Monday
+
+**Today's Progress**: 
+
+Worked on the Caesar Cipher programming challenge on JS. Got the output to display in HTML.
+
+**Thoughts**: 
+
+I finally got the TypeError sorted out. It turns out that any HTML number needs to be parseInt()'d before it can be used as a number literal.
+I also learned that you can't directly make the HTML element's value a variable and expect it to display the value in HTML. 
+Unfortunately, I broke my code again adding too many functions. Any output turns into a string of 01234567 in the length of the original string. This error's gotta be something interesting.
+
+**Link(s) to work**
+
+1. [Caesar Cipher](https://github.com/derekdkim/CaesarCipher)
