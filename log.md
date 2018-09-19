@@ -486,3 +486,19 @@ Unfortunately, I broke my code again adding too many functions. Any output turns
 **Link(s) to work**
 
 1. [Caesar Cipher](https://github.com/derekdkim/CaesarCipher)
+
+### Day 29: September 18, 2018 - Tuesday
+
+**Today's Progress**: 
+
+Finished the Caesar Cipher programming challenge on JS. it is now fully functional with an encrypt, decrypt methods for up to 25 shifts (left or right).
+
+**Thoughts**: 
+
+I solved yesterday's problem after staring at my code for hours. The char variable was meant to represent a character in a text, but because it was simply an accumulator in a for loop, it was a number representing the index.
+So I accidentally used that as an argument for the test-case functions, which obviously returned it as false as char does not yield a unicode number that falls within the alphabet letters range.
+Coupled with that mistake, I also used char.codeCharAt(0), which returns the unicode of the number rather than the actual character of the text. It should have been text.codeCharAt(char);
+
+**Link(s) to work**
+
+1. [Caesar Cipher](https://github.com/derekdkim/CaesarCipher)
