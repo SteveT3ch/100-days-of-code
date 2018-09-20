@@ -502,3 +502,15 @@ Coupled with that mistake, I also used char.codeCharAt(0), which returns the uni
 **Link(s) to work**
 
 1. [Caesar Cipher](https://github.com/derekdkim/CaesarCipher)
+
+### Day 30: September 19, 2018 - Wednesday
+
+**Today's Progress**: 
+
+Read half of Chapter 6 of the Java textbook.
+
+**Thoughts**: 
+
+I came back late after the developers' club meeting and I felt mentally drained after the long day.
+To make sure I don't have a zero day while making a compromised with my exhausted mental state, I decided to learn more about Java classes and UML class diagrams before I started dozing off.
+Tomorrow will most likely also be an unproductive day due to a school event tomorrow evening but after that, I will get back on track.
