@@ -514,3 +514,17 @@ Read half of Chapter 6 of the Java textbook.
 I came back late after the developers' club meeting and I felt mentally drained after the long day.
 To make sure I don't have a zero day while making a compromised with my exhausted mental state, I decided to learn more about Java classes and UML class diagrams before I started dozing off.
 Tomorrow will most likely also be an unproductive day due to a school event tomorrow evening but after that, I will get back on track.
+
+### Day 31: September 20, 2018 - Thursday
+
+**Today's Progress**: 
+
+Figuring out how to use the MS Office JS API and figuring out how to make an Office add-in.
+
+**Thoughts**: 
+
+After getting a boost of confidence from the Caesar Cipher challenge, I felt motivated to have a go at the MBIOBuddy add-in.
+Unfortunately, I can't get it to work at all. I'm clueless about how to get any function to work properly without crashing due to critical syntax error.
+Something else I need to figure out is how to cycle through search for wildcards.
+I've spent 90% of tonight reading API documentation and watching MS Word add-in tutorials by Microsoft and its affiliates.
+This is hard. I have a burning desire to build something meaningful but my knowledge is just so lacking.
