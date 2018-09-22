@@ -528,3 +528,16 @@ Unfortunately, I can't get it to work at all. I'm clueless about how to get any 
 Something else I need to figure out is how to cycle through search for wildcards.
 I've spent 90% of tonight reading API documentation and watching MS Word add-in tutorials by Microsoft and its affiliates.
 This is hard. I have a burning desire to build something meaningful but my knowledge is just so lacking.
+
+### Day 32: September 21, 2018 - Friday
+
+**Today's Progress**: 
+
+Watched 1/3 of CS50 Week 1 lecture.
+
+**Thoughts**: 
+
+I had a long day at work with a workshop, so I was feeling mentally drained.
+My mind was constantly nagging me to skip today, and I almost did, but I ended up making a compromise by watching part of a CS50 lecture at 1AM.
+Learned about C syntaxes (which is very similar to Java).
+This weekend will be filled with a lot of coding. My goal this weekend is to figure out how to use the Word API for my project.
