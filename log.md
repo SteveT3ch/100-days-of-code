@@ -541,3 +541,21 @@ I had a long day at work with a workshop, so I was feeling mentally drained.
 My mind was constantly nagging me to skip today, and I almost did, but I ended up making a compromise by watching part of a CS50 lecture at 1AM.
 Learned about C syntaxes (which is very similar to Java).
 This weekend will be filled with a lot of coding. My goal this weekend is to figure out how to use the Word API for my project.
+
+### Day 33: September 22, 2018 - Saturday
+
+**Today's Progress**: 
+
+Finished Week 1 of CS50.
+Implemented the gene italicization feature of MBIOBuddy.
+
+**Thoughts**: 
+
+CS50 was an absolute pleasure to watch and do. The CS50 IDE is a work of beauty and the lectures are engaging.
+C feels not too bad (reminds me a lot of Java), but I am a little concerned that I'm not experiencing the notorious frustration of compiling C.
+I spent all night reading Office add-in documentation to finally figure out how it works.
+After weeks of no progress in this project, I finally made some headway and finished the main feature of the app.
+
+**Link(s) to work**
+
+1. [MBIOBuddy](https://github.com/derekdkim/MBIOBuddy)
