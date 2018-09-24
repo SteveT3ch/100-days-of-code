@@ -558,4 +558,22 @@ After weeks of no progress in this project, I finally made some headway and fini
 
 **Link(s) to work**
 
-1. [MBIOBuddy](https://github.com/derekdkim/MBIOBuddy)
+1. [MBIOBuddy](https://github.com/derekdkim/MBIOBuddy/commit/e9b2e9cdcf63685587fa555781290e1f2fdebc8b)
+
+### Day 34: September 23, 2018 - Sunday
+
+**Today's Progress**: 
+
+Finished Week 1 cont. of CS50.
+Implemented the v0.1 of MBIOBuddy.
+
+**Thoughts**: 
+
+I finally got the MBIOBuddy app in decent shape. Learning the Office JS API was a huge learning curve, especially with zero exposure to JS frameworks.
+My design skills are trash. I don't think UX design is anywhere in my future, but I need to get better.
+Regardless, I feel really proud to finally get something at last. I just need to polish it and try to publish it in the store.
+Some features are a bit of a distance away, but it's not crucial compared to the core features.
+
+**Link(s) to work**
+
+1. [MBIOBuddy](https://github.com/derekdkim/MBIOBuddy/commit/4720820cc7121767d739fb7dde685339c612500e)
