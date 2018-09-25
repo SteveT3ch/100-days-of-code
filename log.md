@@ -577,3 +577,15 @@ Some features are a bit of a distance away, but it's not crucial compared to the
 **Link(s) to work**
 
 1. [MBIOBuddy](https://github.com/derekdkim/MBIOBuddy/commit/4720820cc7121767d739fb7dde685339c612500e)
+
+### Day 35: September 24, 2018 - Monday
+
+**Today's Progress**: 
+
+Learned some basic Node.js for my next project.
+
+**Thoughts**: 
+
+I want to learn how to make a Twitter bot (and more projects in the future) using Node.js as it is a very popular framework.
+However, I don't think I was getting much out of it by copy/pasting the Node.js statements since I didn't understand how Node works.
+So I went to freeCodeCamp to learn the basics of Node. I think I also need to learn JSON.
