@@ -589,3 +589,22 @@ Learned some basic Node.js for my next project.
 I want to learn how to make a Twitter bot (and more projects in the future) using Node.js as it is a very popular framework.
 However, I don't think I was getting much out of it by copy/pasting the Node.js statements since I didn't understand how Node works.
 So I went to freeCodeCamp to learn the basics of Node. I think I also need to learn JSON.
+
+### Day 36: September 25, 2018 - Tuesday
+
+**Today's Progress**: 
+
+Debugged my Caesar Cipher decryption method.
+Did some basic HackerRank problems.
+Finished an exercise from the Java textbook.
+Wrote a letter counter for Habitica's mini challenge in Java.
+
+**Thoughts**: 
+
+I had an easy day today. As I have more of an interest in algorithms and problem solving, I now realize that I need to be putting more focus on learning this facet of CS rather than making technologically primitive apps in HTML/CSS/JS.
+Unfortunately, I didn't have that much time to code so I did the things I had on the back of my mind and got familiarized with the HackerRank platform. Thanks to someone's feedback, I also found a bug in my Caesar cipher and dealt with it.
+I need to graduate from beginner-level algorithms and methods.
+
+**Link(s) to work**
+
+1. [letterCount](https://github.com/derekdkim/ProgrammingChallenges/blob/master/Habitica/September2018/MiniChallenge/letterCount.java)
