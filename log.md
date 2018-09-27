@@ -608,3 +608,17 @@ I need to graduate from beginner-level algorithms and methods.
 **Link(s) to work**
 
 1. [letterCount](https://github.com/derekdkim/ProgrammingChallenges/blob/master/Habitica/September2018/MiniChallenge/letterCount.java)
+
+### Day 37: September 26, 2018 - Wednesday
+
+**Today's Progress**: 
+
+Studied search and sort algorithms.
+Networked with CS students at the dev club mixer.
+
+**Thoughts**: 
+
+I wasn't able to sit down on the computer until 11:30PM toninght. However, I was able to network with a lot of bright minds who may be a wonderful ally out in the field later in our careers.
+When I had time, I was reading about linear and binary search algorithms, bubble sort algorithms, hashing, and the Big-O notation. They are technically inefficient but it was amazing reading about the different ways to perform a "search" function that users take for granted.
+Finding out how hash tables work and how hashing is done based on object value was revolutionary. I finally understand why they are more efficient than searching from an array; because they essentially search a bucket they know where the object will be and "search" an array of 1 element.
+Algorithms are incredibly fascinating and I look forward to learning more of them in the future.
