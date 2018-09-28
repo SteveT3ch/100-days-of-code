@@ -622,3 +622,17 @@ I wasn't able to sit down on the computer until 11:30PM toninght. However, I was
 When I had time, I was reading about linear and binary search algorithms, bubble sort algorithms, hashing, and the Big-O notation. They are technically inefficient but it was amazing reading about the different ways to perform a "search" function that users take for granted.
 Finding out how hash tables work and how hashing is done based on object value was revolutionary. I finally understand why they are more efficient than searching from an array; because they essentially search a bucket they know where the object will be and "search" an array of 1 element.
 Algorithms are incredibly fascinating and I look forward to learning more of them in the future.
+
+### Day 38: September 27, 2018 - Thursday
+
+**Today's Progress**: 
+
+Watched CS50 Week 2 lecture.
+Did a couple of HackerRank questions.
+
+**Thoughts**: 
+
+I came home late due to TA'ing and I only had disjointed spare time, so I opted for some things that didn't require me to sit down and get into a creative deep work.
+I have so many things I want to learn and accomplish this weekend, I can hardly contain my excitement.
+Grad school is sucking my soul dry, and it's not even my research doing that. If there was any way I can dedicate more time to coding during the week.
+At least thanks to the #100DaysOfCode, I can force myself to always do SOMETHING every day.
