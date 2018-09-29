@@ -636,3 +636,16 @@ I came home late due to TA'ing and I only had disjointed spare time, so I opted 
 I have so many things I want to learn and accomplish this weekend, I can hardly contain my excitement.
 Grad school is sucking my soul dry, and it's not even my research doing that. If there was any way I can dedicate more time to coding during the week.
 At least thanks to the #100DaysOfCode, I can force myself to always do SOMETHING every day.
+
+### Day 39: September 28, 2018 - Friday
+
+**Today's Progress**: 
+
+Did some exercises from Chapter 5 of Getting Started with Java. Focused on getting experience with JOptionsPane.showConfirmDialog() and NumberFormat.
+Did a couple of HackerRank questions.
+
+**Thoughts**: 
+
+I did some exercises that helped me become a little more familiar with Java. However, my progress is slow and I get stuck on rudimentary things I should have no trouble with.
+I declared a NumberFormat.getCurrencyInstance() method as ``` NumberFormat curF = new curF NumberFormat.getCurrencyInstance(); ``` but the compiler kept returning "cannot find symbol getCurrencyInstance()".
+My Java needs some serious whipping in shape if I'm struggling with referencing methods in variables.
