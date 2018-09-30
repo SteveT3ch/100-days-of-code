@@ -19,6 +19,7 @@ After going through the fixes manually, I learned that I need to learn to set up
 1. [Issue: Fix problematic keyword - VoteSmartNC](https://github.com/CodeForCharlotte/VoteSmarterNC/issues/19)
 2. [First pull request: Add 3 food recipes, rearrange recipes list, fix typos. - nekoyume](https://github.com/nekoyume/nekoyume/pull/90)
 
+
 ### Day 2: August 16, 2018 - Thursday
 
 **Today's Progress**: 
@@ -38,7 +39,8 @@ With that being said, I might be jumping the gun a bit as my Python skills are s
 
 **Link(s) to work**
 
-[MBIO Auto-correct MS Word add-in](https://github.com/derekdkim/MBIOAutocorrect/commit/92737426ec0237e377397dca697b159deb569f51)
+MBIO Auto-correct MS Word add-in (No longer exists. Rewritten and re-uploaded as MBIOBuddy).
+
 
 ### Day 3: August 17, 2018 - Friday
 
@@ -47,7 +49,6 @@ With that being said, I might be jumping the gun a bit as my Python skills are s
 After very slow progress on my add-in project, I decided to focus on the fundamentals for this weekend.
 I opened up Eloquent Javascript and finished learning about JS loops syntax. 
 
-
 **Thoughts**: 
 
 The absence of an easy "Run" function of pure JavaScript code on IDEs made testing the syntax expressions incredibly tedious.
@@ -55,17 +56,12 @@ JavaScript feels very similar to Java in its basic operators and some keywords.
 Coming from Python, the way JS uses 3 arguments in its for loop feels very awkward to me.
 I have a newfound appreciation for Python's straight-forward English-like statements.
 
-**Link(s) to work**
-
-1. [Chapter 2: Program Structure](https://eloquentjavascript.net/02_program_structure.html)
-2. [Chapter 2 Notes and tests](https://github.com/derekdkim/100-days-of-code/blob/master/WorkDone/chapter2Notes.js)
 
 ### Day 4: August 18, 2018 - Saturday
 
 **Today's Progress**: 
 
 Finished the Chapter 2 exercises on Eloquent Javascript.
-
 
 **Thoughts**: 
 
@@ -75,17 +71,12 @@ However, I'm getting incredibly frustrated with trying to output Javascript code
 I really need to learn how to link JavaScript output with HTML.
 Maybe I'll take the freecodecamp.com Front-end course.
 
-**Link(s) to work**
-
-1. [Chapter 2: Program Structure](https://eloquentjavascript.net/02_program_structure.html)
-2. [Chapter 2 Exercise Answers](https://github.com/derekdkim/100-days-of-code/blob/master/WorkDone/chapter2Exercises.js)
 
 ### Day 5: August 19, 2018 - Sunday
 
 **Today's Progress**: 
 
 Finished the Chapter 3 exercises on Eloquent Javascript. Completed the basic HTML5 section of freecodecamp.org.
-
 
 **Thoughts**: 
 
@@ -94,10 +85,6 @@ I want to start making my Javascript work in a web page so I started taking the 
 The hands-on approach of teaching on freecodecamp.org makes it really easy to grasp the concept.
 I'll try to finish a chunk every day.
 
-**Link(s) to work**
-
-1. [Chapter 3: Program Structure](https://eloquentjavascript.net/03_functions.html)
-2. [Chapter 3 Exercise Answers](https://github.com/derekdkim/100-days-of-code/blob/master/WorkDone/chapter3Exercises.js)
 
 ### Day 6: August 20, 2018 - Monday
 
@@ -105,17 +92,12 @@ I'll try to finish a chunk every day.
 
 Worked on the Chapter 4 exercises on Eloquent Javascript (not yet finished).
 
-
 **Thoughts**: 
 
 The array section for this book is much more in depth than the Python resource I read for this section.
 It took me a couple of hours to grasp the concepts and to start working on the exercises.
 I'm a bit fatigued from work (mondays :S) so I only did a bit of the freecodecamp CSS module.
 
-**Link(s) to work**
-
-1. [Chapter 4: Program Structure](https://eloquentjavascript.net/04_data.html)
-2. [Chapter 4 Notes](https://github.com/derekdkim/100-days-of-code/blob/master/WorkDone/chapter4Notes.js)
 
 ### Day 7: August 21, 2018 - Tuesday
 
@@ -123,19 +105,18 @@ I'm a bit fatigued from work (mondays :S) so I only did a bit of the freecodecam
 
 Finished the Chapter 4 exercise "Reversing an array" on Eloquent Javascript. Completed the Basic CSS module on freecodecamp.
 
-
 **Thoughts**: 
 
 It broke my heart when I discovered that Javascript doesn't have reverse indexes on their arrays.
 I initially thought it would be a piece of cake and I wrote the code like I would on Python, using a for loop to append the items with the negative index.
 Then, I figured out that I could reverse the count of the for loop to make it work.
 
+
 ### Day 8: August 22, 2018 - Wednesday
 
 **Today's Progress**: 
 
 Finished the Chapter 4 exercise "A list" on Eloquent Javascript. Did some of the Applied Visual Design module on freecodecamp.
-
 
 **Thoughts**: 
 
@@ -147,6 +128,7 @@ In fact, I still don't understand how the data is stored and how the for loop ca
 After that, I was able to eventually make the other 3 functions.
 The most interesting thing I learned was that you can access nested objects by using object = object.nestLocation.
 Despite feeling like a very slow learner, I learned a very important concept and feel that I got a better understanding of nested objects.
+
 
 ### Day 9: August 23, 2018 - Thursday
 
@@ -161,6 +143,7 @@ Unfortunately, I don't remember how to make most of it so it still feels complet
 I need to replicate this in Javascript at some point, and make it a web app.
 Ultimately, I didn't end up doing much today because I had evening plans with friends.
 
+
 ### Day 10: August 24, 2018 - Friday
 
 **Today's Progress**: 
@@ -174,6 +157,7 @@ I'm just randomly putting in commands.
 I try to think about what I'm doing and how it improves design, but it doesn't really resonate with me.
 Some CSS tricks are insanely cool, like the crescent moon and heart shapes.
 
+
 ### Day 11: August 25, 2018 - Saturday
 
 **Today's Progress**: 
@@ -186,11 +170,14 @@ Not a lot of actual coding today but covered some important concepts, particular
 The weekend should be when I'm fired up, but after some late nights this week I just needed to take it easy today.
 I'm hoping to get back into it tomorrow.
 
+
 ### Skipped August 26, 2018 - Sunday (1/5)
+
 
 ### Missed Aug 27 - Aug 30 Due to being hospitalized on Monday evening.
 
 I'm thankful to whichever deity or forces are real for letting me survive for another day and keep on learning what I love.
+
 
 ### Day 12: August 31, 2018 - Friday
 
@@ -209,6 +196,7 @@ It hasn't clicked yet for me but I will keep bashing my head against it until it
 Also, I almost finished my Goodreads auto-giveaway script in Python on Monday. I might just remake it in Javascript and add a GUI instead, but I'll look over that at another time.
 Goodreads gutted their giveaway program so it doesn't give me a lot of motivation to work on it.
 
+
 ### Day 13: September 1, 2018 - Saturday
 
 **Today's Progress**: 
@@ -226,6 +214,7 @@ Markup languages are a bit boring.
 **Link(s) to work**
 
 1. [Exercise - Tribute Page](https://codepen.io/derekdkim/pen/PdpJwv)
+
 
 ### Day 14: September 2, 2018 - Sunday
 
@@ -246,6 +235,7 @@ Coding algorithms and working out problems in programming languages are more up 
 1. [Exercise - Survey Form](https://codepen.io/derekdkim/pen/GXWMvV)
 2. [Exercise - Product Landing Page](https://codepen.io/derekdkim/pen/RYpzOp)
 
+
 ### Day 15: September 3, 2018 - Monday
 
 **Today's Progress**: 
@@ -265,6 +255,7 @@ Whew, but I'm finally done with mark-up. I'm going to continue practicing but no
 1. [Exercise - Technical Documentation](https://codepen.io/derekdkim/pen/oPWPxx)
 2. [Exercise - Portfolio Webpage](https://codepen.io/derekdkim/pen/xadybd)
 
+
 ### Day 16: September 4, 2018 - Tuesday
 
 **Today's Progress**: 
@@ -278,6 +269,7 @@ However, I find myself getting quite bored with this style of teaching. I don't 
 I need to look for some projects to build in addition to working through the exercises.
 The exercises alone won't get me anywhere.
 
+
 ### Day 17: September 5, 2018 - Wednesday
 
 **Today's Progress**: 
@@ -289,6 +281,7 @@ Completed 90% of the Basic Javascript module on freeCodeCamp.
 Some of these challenges took a while for me to finish.
 It wasn't that they were intellectually challenging, but some typos set me back for longer than they should.
 I need more of a keen eye.
+
 
 ### Day 18: September 6, 2018 - Thursday
 
@@ -305,6 +298,7 @@ I like JS but I felt like something different.
 The amount of fundamental CS concepts are something I never realized I lacked until I read the first chapter.
 The book was a blast to read and learn from. If I can stomach reading formal university textbooks, I should just do that instead of being drip-fed content like in freeCodeCamp.
 I still want to finish freeCodeCamp though.
+
 
 ### Day 19: September 7, 2018 - Friday
 
@@ -328,7 +322,8 @@ The work ahead of me will be daunting given my inexperience, but I'm really exci
 
 **Link(s) to work**
 
-1. [MBIOAutocorrect (placeholder repo name, will have to rename or reupload later)](https://github.com/derekdkim/MBIOAutocorrect)
+MBIO Auto-correct MS Word add-in (No longer exists. Rewritten and re-uploaded as MBIOBuddy).
+
 
 ### Day 20: September 8, 2018 - Saturday
 
@@ -341,8 +336,10 @@ Finished Chapter 2 of Starting out with Java: From Control Structures through Ob
 I had a bit of a rest day, so I hit the books and got through a chapter of the Java textbook and learned its syntaxes.
 After getting the hang of Java's programming style, I have come to prefer it. It has also been a fantastic too for me to learn data types and OOP.
 
+
 ### Skipped September 9, 2018 - Sunday (2/5)
 Being lazy playing video games.
+
 
 ### Day 21: September 10, 2018 - Monday
 
@@ -361,6 +358,7 @@ I will work on refining this app as I learn more Java.
 **Link(s) to work**
 
 1. [StockSolutionCalculator](https://github.com/derekdkim/StockSolutionCalculator)
+
 
 ### Day 22: September 11, 2018 - Tuesday
 
@@ -381,7 +379,8 @@ I will refactor my code depending on the performance and feedback.
 **Link(s) to work**
 
 1. [StockSolutionCalculator](https://github.com/derekdkim/StockSolutionCalculator)
-2. [Caesar Cipher](https://github.com/derekdkim/CaesarCipher)
+2. [Caesar Cipher](https://github.com/derekdkim/ProgrammingChallenges/tree/master/Habitica/September2018/Caesar%20Cipher)
+
 
 ### Day 23: September 12, 2018 - Wednesday
 
@@ -395,10 +394,6 @@ Did some Java exercises.
 Getting VisualStudioCode to recognize my OpenJDK PATH is killing me inside. It keeps saying JAVA_HOME environment variable points to a missing folder when it doesn't.
 Got some practice with swing.JOptionPane.
 
-**Link(s) to work**
-
-1. [romanNumerals](https://github.com/derekdkim/100-days-of-code/WorkDone/Java/JavaTextbookExercises/romanNumerals.java)
-2. [magicDates](https://github.com/derekdkim/100-days-of-code/WorkDone/Java/JavaTextbookExercises/magicDates.java)
 
 ### Day 24: September 13, 2018 - Thursday
 
@@ -413,10 +408,6 @@ VisualStudioCode IDE had a lot of issues with Java and displaying input, but I e
 To display input in VisualStudioCode, one must access launch.json and edit "console" value from "internalConsole" to "externalTerminal" or "integratedTerminal".
 Java has been extremely rewarding to learn. I wish there was more time in the day so I can get better at it.
 
-**Link(s) to work**
-
-1. [sumOfNumbers (loop test)](https://github.com/derekdkim/100-days-of-code/WorkDone/Java/JavaTextbookExercises/sumOfNumbers.java)
-2. [distanceTraveled (log generation)](https://github.com/derekdkim/100-days-of-code/WorkDone/Java/JavaTextbookExercises/distanceTraveled.java)
 
 ### Day 25: September 14, 2018 - Friday
 
@@ -428,9 +419,6 @@ Did more practice exercises at the end of Chapter 4 of Java to familiarize mysel
 
 Had somewhat of an unproductive rest day. I only tackled a couple more code challenges at the end of Chapter 4.
 
-**Link(s) to work**
-
-1. [penniesForPay](https://github.com/derekdkim/100-days-of-code/WorkDone/Java/JavaTextbookExercises/penniesForPay.java)
 
 ### Day 26: September 15, 2018 - Saturday
 
@@ -446,11 +434,6 @@ I feel very comfortable with the swing.JOptionPane GUI now.
 
 Note: The slot machine simulation has some bugs that need to be worked out in the future to work properly. I can't figure out how to check if all 3 slots are matching.
 
-**Link(s) to work**
-
-1. [letterCounter](https://github.com/derekdkim/100-days-of-code/WorkDone/Java/JavaTextbookExercises/letterCounter.java)
-2. [fileLetterCounter](https://github.com/derekdkim/100-days-of-code/WorkDone/Java/JavaTextbookExercises/fileLetterCounter.java)
-3. [Slot Machine Simulation](https://github.com/derekdkim/100-days-of-code/WorkDone/Java/JavaTextbookExercises/slotMachine.java)
 
 ### Day 27: September 16, 2018 - Sunday
 
@@ -468,7 +451,7 @@ I will keep trying tomorrow. I'm bound to get it at some point, right?
 
 **Link(s) to work**
 
-1. [Caesar Cipher](https://github.com/derekdkim/CaesarCipher)
+1. [Caesar Cipher](https://github.com/derekdkim/ProgrammingChallenges/tree/master/Habitica/September2018/Caesar%20Cipher)
 
 
 ### Day 28: September 17, 2018 - Monday
@@ -485,7 +468,8 @@ Unfortunately, I broke my code again adding too many functions. Any output turns
 
 **Link(s) to work**
 
-1. [Caesar Cipher](https://github.com/derekdkim/CaesarCipher)
+1. [Caesar Cipher](https://github.com/derekdkim/ProgrammingChallenges/tree/master/Habitica/September2018/Caesar%20Cipher)
+
 
 ### Day 29: September 18, 2018 - Tuesday
 
@@ -501,7 +485,8 @@ Coupled with that mistake, I also used char.codeCharAt(0), which returns the uni
 
 **Link(s) to work**
 
-1. [Caesar Cipher](https://github.com/derekdkim/CaesarCipher)
+1. [Caesar Cipher](https://github.com/derekdkim/ProgrammingChallenges/tree/master/Habitica/September2018/Caesar%20Cipher)
+
 
 ### Day 30: September 19, 2018 - Wednesday
 
@@ -514,6 +499,7 @@ Read half of Chapter 6 of the Java textbook.
 I came back late after the developers' club meeting and I felt mentally drained after the long day.
 To make sure I don't have a zero day while making a compromised with my exhausted mental state, I decided to learn more about Java classes and UML class diagrams before I started dozing off.
 Tomorrow will most likely also be an unproductive day due to a school event tomorrow evening but after that, I will get back on track.
+
 
 ### Day 31: September 20, 2018 - Thursday
 
@@ -529,6 +515,7 @@ Something else I need to figure out is how to cycle through search for wildcards
 I've spent 90% of tonight reading API documentation and watching MS Word add-in tutorials by Microsoft and its affiliates.
 This is hard. I have a burning desire to build something meaningful but my knowledge is just so lacking.
 
+
 ### Day 32: September 21, 2018 - Friday
 
 **Today's Progress**: 
@@ -541,6 +528,7 @@ I had a long day at work with a workshop, so I was feeling mentally drained.
 My mind was constantly nagging me to skip today, and I almost did, but I ended up making a compromise by watching part of a CS50 lecture at 1AM.
 Learned about C syntaxes (which is very similar to Java).
 This weekend will be filled with a lot of coding. My goal this weekend is to figure out how to use the Word API for my project.
+
 
 ### Day 33: September 22, 2018 - Saturday
 
@@ -560,6 +548,7 @@ After weeks of no progress in this project, I finally made some headway and fini
 
 1. [MBIOBuddy](https://github.com/derekdkim/MBIOBuddy/commit/e9b2e9cdcf63685587fa555781290e1f2fdebc8b)
 
+
 ### Day 34: September 23, 2018 - Sunday
 
 **Today's Progress**: 
@@ -578,6 +567,7 @@ Some features are a bit of a distance away, but it's not crucial compared to the
 
 1. [MBIOBuddy](https://github.com/derekdkim/MBIOBuddy/commit/4720820cc7121767d739fb7dde685339c612500e)
 
+
 ### Day 35: September 24, 2018 - Monday
 
 **Today's Progress**: 
@@ -589,6 +579,7 @@ Learned some basic Node.js for my next project.
 I want to learn how to make a Twitter bot (and more projects in the future) using Node.js as it is a very popular framework.
 However, I don't think I was getting much out of it by copy/pasting the Node.js statements since I didn't understand how Node works.
 So I went to freeCodeCamp to learn the basics of Node. I think I also need to learn JSON.
+
 
 ### Day 36: September 25, 2018 - Tuesday
 
@@ -609,6 +600,7 @@ I need to graduate from beginner-level algorithms and methods.
 
 1. [letterCount](https://github.com/derekdkim/ProgrammingChallenges/blob/master/Habitica/September2018/MiniChallenge/letterCount.java)
 
+
 ### Day 37: September 26, 2018 - Wednesday
 
 **Today's Progress**: 
@@ -622,6 +614,7 @@ I wasn't able to sit down on the computer until 11:30PM toninght. However, I was
 When I had time, I was reading about linear and binary search algorithms, bubble sort algorithms, hashing, and the Big-O notation. They are technically inefficient but it was amazing reading about the different ways to perform a "search" function that users take for granted.
 Finding out how hash tables work and how hashing is done based on object value was revolutionary. I finally understand why they are more efficient than searching from an array; because they essentially search a bucket they know where the object will be and "search" an array of 1 element.
 Algorithms are incredibly fascinating and I look forward to learning more of them in the future.
+
 
 ### Day 38: September 27, 2018 - Thursday
 
@@ -637,6 +630,7 @@ I have so many things I want to learn and accomplish this weekend, I can hardly 
 Grad school is sucking my soul dry, and it's not even my research doing that. If there was any way I can dedicate more time to coding during the week.
 At least thanks to the #100DaysOfCode, I can force myself to always do SOMETHING every day.
 
+
 ### Day 39: September 28, 2018 - Friday
 
 **Today's Progress**: 
@@ -649,3 +643,23 @@ Did a couple of HackerRank questions.
 I did some exercises that helped me become a little more familiar with Java. However, my progress is slow and I get stuck on rudimentary things I should have no trouble with.
 I declared a NumberFormat.getCurrencyInstance() method as ``` NumberFormat curF = new curF NumberFormat.getCurrencyInstance(); ``` but the compiler kept returning "cannot find symbol getCurrencyInstance()".
 My Java needs some serious whipping in shape if I'm struggling with referencing methods in variables.
+
+
+### Day 40: September 29, 2018 - Saturday
+
+**Today's Progress**: 
+
+Finished Week 2 of CS50.
+Contributed to my first JS Open-source project on GitHub.
+Did a couple of HackerRank questions.
+
+**Thoughts**: 
+
+Writing music using C was really neat but writing individual notes was a massive pain. My music theory was also getting fairly weak.
+I was having trouble with double -> integer conversion rounding down values, but I was able to solve it by adding 0.5 to each answer before converting.
+Today is also the first day I contributed to an open-source project in JS. I fixed a bug on imglab.
+Reading the codebase taught me a lot about jQuery and gave me inspiration for my own MBIOBuddy project.
+
+**Link(s) to work**
+
+1. [imglab Pull-request](https://github.com/NaturalIntelligence/imglab/pull/114)
