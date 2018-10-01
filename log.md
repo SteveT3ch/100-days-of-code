@@ -663,3 +663,21 @@ Reading the codebase taught me a lot about jQuery and gave me inspiration for my
 **Link(s) to work**
 
 1. [imglab Pull-request](https://github.com/NaturalIntelligence/imglab/pull/114)
+
+### Day 41: September 30, 2018 - Sunday
+
+**Today's Progress**: 
+
+Refactored code for imglab open-source project.
+Did a couple of HackerRank questions.
+
+**Thoughts**: 
+
+I am tasked with removing code that is only being used in the legacy version of imglab.
+I was easily able to remove files that are only being referenced by old.html but the code in files that are being used by both is tougher to sniff out.
+Whether or not I'm able to do a good job is a mystery, but I'll do it for the experience either way.
+My coding time today was a bit shorter so I couldn't finish it or get to implementing custom words for MBIOBuddy, but I think I'll be able to tomorrow.
+
+**Link(s) to work**
+
+1. [imglab delete commit. May not work in the future when repo is removed](https://github.com/derekdkim/imglab/commit/6796b9e6254b1bed7689b6471b725d3baa649105)
