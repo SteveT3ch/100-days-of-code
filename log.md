@@ -662,7 +662,7 @@ Reading the codebase taught me a lot about jQuery and gave me inspiration for my
 
 **Link(s) to work**
 
-1. [imglab Pull-request](https://github.com/NaturalIntelligence/imglab/pull/114)
+1. [Fix for Custom category of a shape is not being saved #113](https://github.com/NaturalIntelligence/imglab/pull/114)
 
 ### Day 41: September 30, 2018 - Sunday
 
@@ -680,4 +680,26 @@ My coding time today was a bit shorter so I couldn't finish it or get to impleme
 
 **Link(s) to work**
 
-1. [imglab delete commit. May not work in the future when repo is removed](https://github.com/derekdkim/imglab/commit/6796b9e6254b1bed7689b6471b725d3baa649105)
+1. [Discontinue with v1 #88](https://github.com/NaturalIntelligence/imglab/pull/116)
+
+### Day 42: October 1, 2018 - Monday
+
+**Today's Progress**: 
+
+Merged PRs for 3 issues for Hacktoberfest.
+Learned about unit testing using mocha.
+
+**Thoughts**: 
+
+I skipped school because I didn't feel like waking up early and instead of doing my grad student work, I just coded all day.
+Hacktoberfest started today, so I was extremely eager to start coding and get my T-shirt.
+ImgLab still had some issues and I was able to find a very easy refactor issue while browsing through issues, so I went ahead and fixed them.
+While most feature implementation is out of reach for my current skill level, I learned an incredibly amount from contributing.
+The highlight lesson has to be not using the master branch for doing work. Always create another branch, then merge into master.
+Master should always only have stable code that never gets changed.
+
+**Link(s) to work**
+
+1. [Proposal created info box has a couple of extraneous words #632](https://github.com/decred/politeiagui/pull/643)
+2. [Discontinue with v1 #88](https://github.com/NaturalIntelligence/imglab/pull/116)
+3. [Document newly added functionalitities](https://github.com/NaturalIntelligence/imglab/pull/117)
