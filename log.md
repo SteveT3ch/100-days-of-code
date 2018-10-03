@@ -703,3 +703,16 @@ Master should always only have stable code that never gets changed.
 1. [Proposal created info box has a couple of extraneous words #632](https://github.com/decred/politeiagui/pull/643)
 2. [Discontinue with v1 #88](https://github.com/NaturalIntelligence/imglab/pull/116)
 3. [Document newly added functionalitities](https://github.com/NaturalIntelligence/imglab/pull/117)
+
+### Day 43: October 2, 2018 - Tuesday
+
+**Today's Progress**: 
+
+Finished Hacktoberfest.
+
+**Thoughts**: 
+
+Today was a bit of a bummer compared to yesterday. I really felt the limit of my coding skills because I couldn't even come close to cracking a lot of the issues.
+So I just worked on simple documentations to meet my 5 PR quota for hacktoberfest. With this out of the way, I will get back into the rhythm of learning and advancing my skills.
+I will probably wait until I'm done MBIOBuddy and next month to really tackle some significant coding issues on open source.
+Having an extrinsic reward like this has made me lose my momentum and I wasn't really myself for the past couple of days. All this for a single T-shirt.
