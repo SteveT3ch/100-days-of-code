@@ -716,3 +716,15 @@ Today was a bit of a bummer compared to yesterday. I really felt the limit of my
 So I just worked on simple documentations to meet my 5 PR quota for hacktoberfest. With this out of the way, I will get back into the rhythm of learning and advancing my skills.
 I will probably wait until I'm done MBIOBuddy and next month to really tackle some significant coding issues on open source.
 Having an extrinsic reward like this has made me lose my momentum and I wasn't really myself for the past couple of days. All this for a single T-shirt.
+
+### Day 44: October 3, 2018 - Wednesday
+
+**Today's Progress**: 
+
+Helped with documenting Typescript.
+Watched week 3 CS50 lecture.
+
+**Thoughts**: 
+
+Documentation took a longer time than I anticipated. However, I learned some neat tricks about markdown, such as being able to use it for web pages and adding anchor tags by using `[]()`.
+My coding progress has been slow this week so I need to pick it up once I'm done with these issues I volunteered myself for.
