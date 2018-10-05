@@ -728,3 +728,14 @@ Watched week 3 CS50 lecture.
 
 Documentation took a longer time than I anticipated. However, I learned some neat tricks about markdown, such as being able to use it for web pages and adding anchor tags by using `[]()`.
 My coding progress has been slow this week so I need to pick it up once I'm done with these issues I volunteered myself for.
+
+### Day 45: October 4, 2018 - Thursday
+
+**Today's Progress**: 
+
+Freed myself of the documenting task.
+
+**Thoughts**: 
+
+I came home late today (past 10PM) and then finished that documentation task for Typescript.
+I can now start coding starting tomorrow. My momentum has really taken a hit this past week.
