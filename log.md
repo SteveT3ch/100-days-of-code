@@ -739,3 +739,22 @@ Freed myself of the documenting task.
 
 I came home late today (past 10PM) and then finished that documentation task for Typescript.
 I can now start coding starting tomorrow. My momentum has really taken a hit this past week.
+
+### Skipped October 5, 2018 - Friday (3/5)
+
+### Day 46: October 6, 2018 - Saturday
+
+**Today's Progress**: 
+
+Finished Chapter 5 questions in the Java textbook.
+Did a couple of HackerRank questions.
+
+**Thoughts**: 
+
+I was getting myself refreshed with Java.
+To make sure I run into any issues and get the fundamentals down right, I went through a dozen coding problems based on creating methods.
+They're not too difficult but I learn new things about strongly-typed languages like Java every time I go through them.
+For example, I learned today that Java arrays are immutable and cannot change in length, so any kind of append function is simply copying the array and making a new one, making it inefficient.
+The Python list-like arrays are called ArrayList, and they have their own set of keywords.
+I need to pick up the pace again in CS50, Java, and JavaScript.
+MBIOBuddy is aso just sitting there, collecting dust. I need to complete it and publish it whenever I can.
