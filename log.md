@@ -758,3 +758,14 @@ For example, I learned today that Java arrays are immutable and cannot change in
 The Python list-like arrays are called ArrayList, and they have their own set of keywords.
 I need to pick up the pace again in CS50, Java, and JavaScript.
 MBIOBuddy is aso just sitting there, collecting dust. I need to complete it and publish it whenever I can.
+
+### Day 47: October 7, 2018 - Sunday
+
+**Today's Progress**: 
+
+Wrote a colour guessing game and rock paper scissors simulator in Java.
+
+**Thoughts**: 
+
+I didn't do as much work asa I wanted to today since I wanted to finish Life is Strange: Before the Storm.
+I planned out at least 4 hours of coding tomorrow to compensate.
