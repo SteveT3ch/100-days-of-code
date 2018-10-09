@@ -769,3 +769,16 @@ Wrote a colour guessing game and rock paper scissors simulator in Java.
 
 I didn't do as much work asa I wanted to today since I wanted to finish Life is Strange: Before the Storm.
 I planned out at least 4 hours of coding tomorrow to compensate.
+
+### Day 48: October 8, 2018 - Monday
+
+**Today's Progress**: 
+
+Finished Chapter 6 in the Java textbook.
+Finished half of the coding challenges in Chapter 6.
+
+**Thoughts**: 
+
+I learned all about Object-Oriented Programming today. Before, it made zero sense to me but going through a detailed explanation in a textbook really helped in understanding the concept in detail.
+After learning the concepts and looking at examples, I hit the drills and wrote a 21 game.
+It gave me inspiration for a text-based adventure game. When I learn databases and package java files into an exe, I will develop it and demo it around.
