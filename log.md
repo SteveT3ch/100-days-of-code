@@ -782,3 +782,14 @@ Finished half of the coding challenges in Chapter 6.
 I learned all about Object-Oriented Programming today. Before, it made zero sense to me but going through a detailed explanation in a textbook really helped in understanding the concept in detail.
 After learning the concepts and looking at examples, I hit the drills and wrote a 21 game.
 It gave me inspiration for a text-based adventure game. When I learn databases and package java files into an exe, I will develop it and demo it around.
+
+### Day 49: October 9, 2018 - Tuesday
+
+**Today's Progress**: 
+
+Watched the CS50 week 3 lecture.
+
+**Thoughts**: 
+
+I felt tired and lazy after the first day back post-long weekend. I was one step away from skipping, but I made the compromise to sit through and passively take in a CS lecture.
+I will not let myself slip like this tomorrow. My progress has been slowed too much as it is.
