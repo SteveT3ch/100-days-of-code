@@ -793,3 +793,16 @@ Watched the CS50 week 3 lecture.
 
 I felt tired and lazy after the first day back post-long weekend. I was one step away from skipping, but I made the compromise to sit through and passively take in a CS lecture.
 I will not let myself slip like this tomorrow. My progress has been slowed too much as it is.
+
+### Day 50: October 10, 2018 - Wednesday
+
+**Today's Progress**: 
+
+Finished Chapter 6 coding challenges in the Java textbook.
+
+**Thoughts**: 
+
+I finished up most of the self-assigned coding challenges at the end of Chapter 6. It's been a long way to Day 50, and I would have never imagined how far I would come within 2 months.
+100 Days of Code is superb and really helped my lazy ass get consistently coding to make meaningful progress.
+Today, basic OOP concepts, the next 50 days, master fundamental Java and JS.
+Let's go!
