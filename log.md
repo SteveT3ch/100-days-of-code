@@ -806,3 +806,14 @@ I finished up most of the self-assigned coding challenges at the end of Chapter 
 100 Days of Code is superb and really helped my lazy ass get consistently coding to make meaningful progress.
 Today, basic OOP concepts, the next 50 days, master fundamental Java and JS.
 Let's go!
+
+### Day 51: October 11, 2018 - Thursday
+
+**Today's Progress**: 
+
+Finished Chapter 7 in the Java textbook.
+
+**Thoughts**: 
+
+Covered arrays, arrayList class, binary search, and selection sort.
+It was harder to pay attention to the textbook today.
