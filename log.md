@@ -817,3 +817,14 @@ Finished Chapter 7 in the Java textbook.
 
 Covered arrays, arrayList class, binary search, and selection sort.
 It was harder to pay attention to the textbook today.
+
+### Day 52: October 12, 2018 - Friday
+
+**Today's Progress**: 
+
+Worked on Chapter 7 coding challenges in the Java textbook.
+
+**Thoughts**: 
+
+These challenges involve the use of arrays in multi-file programs.
+Although these aren't all that complex, I am getting more of the Java syntax muscle memory down.
