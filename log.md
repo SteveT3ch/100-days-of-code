@@ -828,3 +828,37 @@ Worked on Chapter 7 coding challenges in the Java textbook.
 
 These challenges involve the use of arrays in multi-file programs.
 Although these aren't all that complex, I am getting more of the Java syntax muscle memory down.
+
+### Day 53: October 13, 2018 - Saturday
+
+**Today's Progress**: 
+
+Worked on Chapter 7 coding challenges in the Java textbook.
+Troubleshot local installation of Habitica.
+
+**Thoughts**: 
+
+Note: Apparently I checked in on Twitter but forgot to write an entry.
+These challenges are taking a bit longer than the other chapters I've done.
+It means that I need to work more on array operations.
+Also, installing nodejs/mongodb projects are tougher than I anticipated. It is extremely strict about the version of the components (mongodb, nodejs, npm).
+I finally got it working though. Time to contribute!
+
+### Day 54: October 14, 2018 - Sunday
+
+**Today's Progress**: 
+
+Fixed an issue in the Habitica project.
+Read up on mocha unit tests.
+Updated documentation for imglab.
+
+**Thoughts**: 
+
+Now that I've got the local installation down, I went to go fix the issue I volunteered for.
+Since the maintainers were kind enough to give away the solution (this is a good-first-issue), I was able to fix it right away.
+The coolest thing was testing it in my local environment though. Creating accounts, granting subscriptions using mongodb commands, and watching my code come to life was phenomenal.
+Now I need to create a unit test. Ugh, I don't know what any of these syntaxes do. This is an entirely new language that are vastly different than any other programming language.
+
+**Link(s) to work**
+
+1. [fix for #10496: Newly subscribed accounts receive erroneous notification that they have Mystery Items](https://github.com/HabitRPG/habitica/pull/10759)
