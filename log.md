@@ -863,7 +863,7 @@ Now I need to create a unit test. Ugh, I don't know what any of these syntaxes d
 
 1. [fix for #10496: Newly subscribed accounts receive erroneous notification that they have Mystery Items](https://github.com/HabitRPG/habitica/pull/10759)
 
-### Day 54: October 14, 2018 - Sunday
+### Day 55: October 15, 2018 - Monday
 
 **Today's Progress**: 
 
