@@ -862,3 +862,13 @@ Now I need to create a unit test. Ugh, I don't know what any of these syntaxes d
 **Link(s) to work**
 
 1. [fix for #10496: Newly subscribed accounts receive erroneous notification that they have Mystery Items](https://github.com/HabitRPG/habitica/pull/10759)
+
+### Day 54: October 14, 2018 - Sunday
+
+**Today's Progress**: 
+
+Watched CS50 Lecture.
+
+**Thoughts**: 
+
+Not much progress today. I allocated a separate time for coding and for CS50 so that I can make progress in both fronts now. I've neglected my CS50 too much and I need to get it done before the end of the year.
