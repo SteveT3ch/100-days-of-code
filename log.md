@@ -872,3 +872,16 @@ Watched CS50 Lecture.
 **Thoughts**: 
 
 Not much progress today. I allocated a separate time for coding and for CS50 so that I can make progress in both fronts now. I've neglected my CS50 too much and I need to get it done before the end of the year.
+
+### Day 56: October 16, 2018 - Tuesday
+
+**Today's Progress**: 
+
+Read 3 sections of Chapter 8 of the Java textbook.
+Did a coding challenge using multi-dimensional arrays.
+
+**Thoughts**: 
+
+There are some cool things I learned with static fields and methods, as well as toString().
+I realize that I spent way too much time overlearning with repetitive coding challenges.
+I would be better served to go a bit deeper in and spend more time on the more challenging coding challenges rather than doing hundreds of rudimentary ones.
