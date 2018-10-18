@@ -885,3 +885,15 @@ Did a coding challenge using multi-dimensional arrays.
 There are some cool things I learned with static fields and methods, as well as toString().
 I realize that I spent way too much time overlearning with repetitive coding challenges.
 I would be better served to go a bit deeper in and spend more time on the more challenging coding challenges rather than doing hundreds of rudimentary ones.
+
+### Day 57: October 17, 2018 - Wednesday
+
+**Today's Progress**: 
+
+Read Chapter 8 of the Java textbook.
+
+**Thoughts**: 
+
+The book taught me to consider potential security flaws when writing code. For example, calling the value of a field will reveal the memory address of the instance field, which can be accessed by code outside of the aggregator object. Making deep copies (or new copies using the value as a parameter) will prevent unwanted access to private fields.
+It also covered enumerated datatypes. It is really cool how I can set instances of a class as a datatype, but I still don't fully grasp the purpose and practice application of them.
+Finally, it went through the ```this``` keyword. I came across it quite a bit in Javascript code but this is the first time I've seen it in Java. I learned today that it can help avoid shadowing of parameters by instance fields.
