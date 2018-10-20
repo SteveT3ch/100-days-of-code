@@ -897,3 +897,19 @@ Read Chapter 8 of the Java textbook.
 The book taught me to consider potential security flaws when writing code. For example, calling the value of a field will reveal the memory address of the instance field, which can be accessed by code outside of the aggregator object. Making deep copies (or new copies using the value as a parameter) will prevent unwanted access to private fields.
 It also covered enumerated datatypes. It is really cool how I can set instances of a class as a datatype, but I still don't fully grasp the purpose and practice application of them.
 Finally, it went through the ```this``` keyword. I came across it quite a bit in Javascript code but this is the first time I've seen it in Java. I learned today that it can help avoid shadowing of parameters by instance fields.
+
+### Skipped October 18, 2018 - Thursday (4/5)
+
+### Day 58: October 19, 2018 - Friday
+
+**Today's Progress**: 
+
+Read Chapter 9 of the Java textbook.
+Did a coding challenge to reinforce OOP concepts and practices.
+
+**Thoughts**: 
+
+I learned about wrapper classes today. All of the examples I was taught were from the Java API, like StringBuilder, StringTokenizer, String, Character, and etc.
+This chaper also covered formatting text, but I was already familiar with them.
+Today, I learned that CSV meant comma-separated values and that they can be used by tokenizing the values from the comma delimiters.
+Learning to parse an Excel spreadsheet with CSV files blew my mind. So many possibilities. *drools*
