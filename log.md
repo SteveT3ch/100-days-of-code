@@ -913,3 +913,15 @@ I learned about wrapper classes today. All of the examples I was taught were fro
 This chaper also covered formatting text, but I was already familiar with them.
 Today, I learned that CSV meant comma-separated values and that they can be used by tokenizing the values from the comma delimiters.
 Learning to parse an Excel spreadsheet with CSV files blew my mind. So many possibilities. *drools*
+
+### Day 59: October 20, 2018 - Saturday
+
+**Today's Progress**: 
+
+Read Chapter 10 of the Java textbook.
+
+**Thoughts**: 
+
+This chapter taught me about inheritances. I came across ```extends Class``` a few times on GitHub, but I didn't have a clue as to what it meant.
+Inheritance sounds useful, but it seems like keeping track of its members as the hierarchy gets deeper and deeper will become increasingly difficult.
+I also learned about abstract classes and methods. Basically like a template class (at least that's how a beginner like me understands it).
