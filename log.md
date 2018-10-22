@@ -925,3 +925,16 @@ Read Chapter 10 of the Java textbook.
 This chapter taught me about inheritances. I came across ```extends Class``` a few times on GitHub, but I didn't have a clue as to what it meant.
 Inheritance sounds useful, but it seems like keeping track of its members as the hierarchy gets deeper and deeper will become increasingly difficult.
 I also learned about abstract classes and methods. Basically like a template class (at least that's how a beginner like me understands it).
+
+### Day 60: October 21, 2018 - Sunday
+
+**Today's Progress**: 
+
+Wrote a script that converts numbers into English, like how it's written on cheques.
+Learned about interfaces.
+
+**Thoughts**: 
+
+I did a programming challenge that involved formatting input data into a bank cheque.
+Converting the date to the xx/xx/xxxx format was simple enough, but converting the cash value to English was more work than I anticipated.
+It gave me a lot of frustration but I finally got it to work after spending hours on it.
