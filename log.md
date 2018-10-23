@@ -938,3 +938,15 @@ Learned about interfaces.
 I did a programming challenge that involved formatting input data into a bank cheque.
 Converting the date to the xx/xx/xxxx format was simple enough, but converting the cash value to English was more work than I anticipated.
 It gave me a lot of frustration but I finally got it to work after spending hours on it.
+
+### Day 61: October 22, 2018 - Monday
+
+**Today's Progress**: 
+
+Worked on a coding challenge. Still a work in progress.
+
+**Thoughts**: 
+
+I took Habitica's October monthly coding challenge to write an algorithm that determines the missing movements in a sequence of movements to get from the top left of a 5x5 grid to the bottom right without moving into the same spot more than once.
+After working on it for a couple of hours, I arrived at an algorithm that basically determines the shortest path to the route in addition to the given movements, but I couldn't find what I was originally trying to do.
+It's clear that I'm still inept at whiteboarding and solving problems. I need to approach it with a fresh mind tomorrow.
