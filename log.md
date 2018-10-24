@@ -950,3 +950,15 @@ Worked on a coding challenge. Still a work in progress.
 I took Habitica's October monthly coding challenge to write an algorithm that determines the missing movements in a sequence of movements to get from the top left of a 5x5 grid to the bottom right without moving into the same spot more than once.
 After working on it for a couple of hours, I arrived at an algorithm that basically determines the shortest path to the route in addition to the given movements, but I couldn't find what I was originally trying to do.
 It's clear that I'm still inept at whiteboarding and solving problems. I need to approach it with a fresh mind tomorrow.
+
+### Day 62: October 23, 2018 - Tuesday
+
+**Today's Progress**: 
+
+Worked on the same coding challenge.
+Learned how to interpret recursive methods.
+
+**Thoughts**: 
+
+This is the second day working at it. It frustrates me to no end that I still don't have it down yet. I got help from my brother who took CS and worked through a recursive way to go about doing it, but there are still some things inadequate about my solution.
+I really need to reinforce my algorithm problem-solving skills. I feel so useless as I am now. It makes all that cookbook-style coding I've been doing feel meaningless.
