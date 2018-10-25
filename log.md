@@ -962,3 +962,13 @@ Learned how to interpret recursive methods.
 
 This is the second day working at it. It frustrates me to no end that I still don't have it down yet. I got help from my brother who took CS and worked through a recursive way to go about doing it, but there are still some things inadequate about my solution.
 I really need to reinforce my algorithm problem-solving skills. I feel so useless as I am now. It makes all that cookbook-style coding I've been doing feel meaningless.
+
+### Day 63: October 24, 2018 - Wednesday
+
+**Today's Progress**: 
+
+Read Think Like A Programmer.
+
+**Thoughts**: 
+
+I was out for quite a bit and had other things to finish up, so I read Think Like A Programmer while on the go. It barely counts as work but I didn't want to skip a day completely.
