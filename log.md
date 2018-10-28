@@ -972,3 +972,31 @@ Read Think Like A Programmer.
 **Thoughts**: 
 
 I was out for quite a bit and had other things to finish up, so I read Think Like A Programmer while on the go. It barely counts as work but I didn't want to skip a day completely.
+
+### Skipped October 25, 2018 - Thursday (5/5)
+
+### Day 64: October 26, 2018 - Friday
+
+**Today's Progress**: 
+
+Finished Week 3 Lecture of CS50.
+
+**Thoughts**: 
+
+I needed to refresh my mind and ease back into programming for the weekend sprint, so I resumed my CS50 progress.
+As I am venturing forth deeper into programming, I am realizing that I am missing some CS fundamentals.
+CS50 has been an excellent resource in bridging that gap and helping me realize why some "tricks" are the way they are.
+I aim to finish 2 weeks worth of CS50 this weekend and finish up that algorithm question that's been the bane of my existence this week.
+
+### Day 65: October 27, 2018 - Saturday
+
+**Today's Progress**: 
+
+Learned about hexadecimals, bitmaps (.bmp), structs in C, exact-width integers.
+
+**Thoughts**: 
+
+Did a CS50 assignment to decode a hidden message in a picture with a lot of noise to find out "whodunit".
+It started me off with reading a premade copy.c file to understand how file reading and writing bitmap files works in C.
+C is really rewarding to learn as it is teaching me data structures on a deeper level than high-level programming language courses and books.
+This assignment was very hands-off so it took a while to grasp and finish, but it was very satisfying when it worked.
