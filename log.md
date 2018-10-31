@@ -1000,3 +1000,21 @@ Did a CS50 assignment to decode a hidden message in a picture with a lot of nois
 It started me off with reading a premade copy.c file to understand how file reading and writing bitmap files works in C.
 C is really rewarding to learn as it is teaching me data structures on a deeper level than high-level programming language courses and books.
 This assignment was very hands-off so it took a while to grasp and finish, but it was very satisfying when it worked.
+
+### Skipped October 28, 2018 - Sunday (6/5)
+
+### Skipped October 29, 2018 - Monday (7/5)
+
+Skipped more days than I would have liked. I will need to add them back in at the end of the 100 day run.
+
+### Day 66: October 30, 2018 - Tuesday
+
+**Today's Progress**: 
+
+Finished Chapter 11 of Java textbook.
+
+**Thoughts**: 
+
+Learned about exceptions. It is interesting learning about the hierarchy of exceptions, from Throwable -> Error + Exceptions -> RuntimeExceptions + IOExceptions...
+Everything in Java really is a class or an object.
+Unlike other chapters, not every implementation of exceptions and serialization immediately made sense to me, so I'm going to need to play around with it to get it to click.
