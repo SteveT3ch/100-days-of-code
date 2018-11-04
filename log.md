@@ -1018,3 +1018,41 @@ Finished Chapter 11 of Java textbook.
 Learned about exceptions. It is interesting learning about the hierarchy of exceptions, from Throwable -> Error + Exceptions -> RuntimeExceptions + IOExceptions...
 Everything in Java really is a class or an object.
 Unlike other chapters, not every implementation of exceptions and serialization immediately made sense to me, so I'm going to need to play around with it to get it to click.
+
+### Day 67: October 31, 2018 - Wednesday
+
+**Today's Progress**: 
+
+Worked on a couple of Java exercises on exceptions.
+
+**Thoughts**: 
+
+These exercises reinforced my understanding of exceptions. It's very cool that I can make my own exceptions and handle errors for almost every predictable failure.
+I worked on this at 6AM. This will be my new coding time, as coding after work doesn't let me learn to my full potential.
+
+### Day 68: November 1, 2018 - Thursday
+
+**Today's Progress**: 
+
+Read Chapter 12 of Java textbook.
+
+**Thoughts**: 
+
+Covered GUI fundamentals and Java's built-in GUI classes Swing and AWT. This is what I've been dying to learn, so I can make full-stack applications and show them off to non-technical people.
+It also makes me feel justified to put on my portfolio as a finished product. Writing a terminal script just doesn't feel as complete.
+Swing and AWT reminds me a lot of HTML and CSS. There are a lot of similarities between how front-end languages/classes are written, and I appreciate having a primer in HTML/CSS a lot more having gone through the introduction to Java GUIs.
+On a side note, this is the start of November. I want to cover at least double what I did in October and finish a full Java app by the end of the month.
+
+### Skipped November 2, 2018 - Friday (8/5)
+
+### Day 69: November 3, 2018 - Saturday
+
+**Today's Progress**: 
+
+Finished Chapter 12 of Java textbook.
+Did an exercise challenge.
+
+**Thoughts**:
+
+Got some practice with the Swing GUI. It's quite difficult to remember all of the things that need to be done to construct a proper GUI using Swing.
+Despite having some knowledge with markup languages, this is quite different in practice. I'll need to grind some more to get it down pat.
